@@ -2,12 +2,12 @@
 
 # Iqra Yousaf  
 
-**DevOps Engineer | Cloud & Automation Expert** 
+**Linux System Administrator | Cloud & Automation Engineer** 
 
 Hi there! 👋 Welcome to my GitHub profile.
 
-I am [Iqra Yousaf](https://www.linkedin.com/in/iqra-yousaf-a72926272/), a DevOps Engineer from [🇵🇰](https://en.wikipedia.org/wiki/Pakistan) Pakistan.
-I am passionate about developing production-ready applications with strong skills in DevOps and cloud platforms.
+I am [Iqra Yousaf](https://www.linkedin.com/in/iqrabinteyousaf/), a Linux System Admin from [🇵🇰](https://en.wikipedia.org/wiki/Pakistan) Pakistan.
+I am passionate about developing production-ready applications with strong skills in Linux, DevOps, and cloud platforms.
 </div>
 
 ### 👋 About Me  
@@ -23,7 +23,8 @@ I automate cloud systems and build secure DevOps pipelines. My expertise:
 
 ## 🔧 Top Skills &🛠️ Technical Expertise
 
-### ☁️ DevOps & Cloud
+### ☁️ Linux & Cloud
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
@@ -40,6 +41,7 @@ I automate cloud systems and build secure DevOps pipelines. My expertise:
 ![RHEL](https://img.shields.io/badge/Red_Hat-EE0000?logo=redhat&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 ### 🔒 Security Knowledge
 ![CISSP](https://img.shields.io/badge/CISSP-Certified-ff69b4)
@@ -49,7 +51,7 @@ I automate cloud systems and build secure DevOps pipelines. My expertise:
 ### 🌱 Current Focus  
 - Learning: AI in DevOps workflows  
 - Improving: Multi-cloud security setups  
-- Sharing: DevOps best practices  
+- Sharing: LInux & DevOps best practices  
 
 ---
 
@@ -64,9 +66,9 @@ I automate cloud systems and build secure DevOps pipelines. My expertise:
 
 ### 📫 Connect with me!  
 - **For Work**: [Email](mailto:yousafge00@gmail.com)  
-- **For Networking**: [LinkedIn](https://www.linkedin.com/in/iqra-yousaf-a72926272/)  
+- **For Networking**: [LinkedIn](https://www.linkedin.com/in/iqrabinteyousaf/)  
 - **My Code**: [GitHub Repos]([#](https://github.com/BSIT-007-Iqra?tab=repositories))
 
 --- 
 
-⭐ *“Good DevOps = Happy Teams + Secure Systems”*  
+
