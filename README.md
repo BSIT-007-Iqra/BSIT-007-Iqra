@@ -2,11 +2,11 @@
 
 # Iqra Yousaf  
 
-**Linux System Administrator | Cloud & Automation Engineer** 
+**Cloud & DevOps Engineer** 
 
 Hi there! 👋 Welcome to my GitHub profile.
 
-I am [Iqra Yousaf](https://www.linkedin.com/in/iqrabinteyousaf/), a Linux System Admin from [🇵🇰](https://en.wikipedia.org/wiki/Pakistan) Pakistan.
+I am [Iqra Yousaf](https://www.linkedin.com/in/iqrabinteyousaf/), a DevOps Engineer from [🇵🇰](https://en.wikipedia.org/wiki/Pakistan) Pakistan.
 I am passionate about developing production-ready applications with strong skills in Linux, DevOps, and cloud platforms.
 </div>
 
@@ -67,7 +67,7 @@ I automate cloud systems and build secure DevOps pipelines. My expertise:
 ### 📫 Connect with me!  
 - **For Work**: [Email](mailto:yousafge00@gmail.com)  
 - **For Networking**: [LinkedIn](https://www.linkedin.com/in/iqrabinteyousaf/)  
-- **My Code**: [GitHub Repos]([#](https://github.com/BSIT-007-Iqra?tab=repositories))
+- **My Code**: [GitHub Repos]([#](https://github.com/BSIT-007-Iqra?tab=repositories)
 
 --- 
 
