@@ -51,7 +51,7 @@ I automate cloud systems and build secure DevOps pipelines. My expertise:
 ### 🌱 Current Focus  
 - Learning: AI in DevOps workflows  
 - Improving: Multi-cloud security setups  
-- Sharing: LInux & DevOps best practices  
+- Sharing: Linux & DevOps best practices  
 
 ---
 
