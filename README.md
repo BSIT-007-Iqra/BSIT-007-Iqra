@@ -65,7 +65,7 @@ I automate cloud systems and build secure DevOps pipelines. My expertise:
 ---
 
 ### 📫 Connect with me!  
-- **For Work**: [Email](mailto:yousafge00@gmail.com)  
+- **For Work**: [Email](mailto:iqrabajwa9654@gmail.com)  
 - **For Networking**: [LinkedIn](https://www.linkedin.com/in/iqrabinteyousaf/)  
 - **My Code**: [GitHub Repos](https://github.com/BSIT-007-Iqra?tab=repositories)
 
