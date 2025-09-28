@@ -55,7 +55,7 @@ I automate cloud systems and build secure DevOps pipelines. My expertise:
 
 ---
 
-### 🚀 Projects I Love  
+### 🚀 Projects I Like the most  
 1. **Automated Deployment Pipeline**  
    - Built with Jenkins + Docker  
 
