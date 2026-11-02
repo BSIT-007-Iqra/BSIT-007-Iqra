@@ -44,7 +44,7 @@ I automate cloud systems and build secure DevOps pipelines. My expertise:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 ### 🔒 Security Knowledge
-![CISSP](https://img.shields.io/badge/CISSP-Certified-ff69b4)
+![CISSP](https://img.shields.io/badge/CISSP-Training-ff69b4)
 ![ISO27001](https://img.shields.io/badge/ISO_27001-Compliant-009688)
 ---
 
