@@ -60,7 +60,7 @@ I automate cloud systems and build secure DevOps pipelines. My expertise:
    - Built with Jenkins + Docker  
 
 2. **Cloud Monitoring System**  
-   - Used Prometheus + Grafana  
+   - Used Prometheus + Grafana + Cloud Watch
   
 ---
 
